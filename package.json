@@ -33,6 +33,7 @@
     "multer": "^1.4.2",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
+    "protractor": "^5.4.3",
     "selenium-webdriver": "^4.0.0-alpha.7",
     "update-node": "^0.1.0"
   },
