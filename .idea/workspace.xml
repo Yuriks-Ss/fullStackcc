@@ -153,19 +153,19 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="90">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="450">
               <caret line="52" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
@@ -316,9 +316,9 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="118" />
+    <option name="y" value="5" />
     <option name="width" value="1020" />
     <option name="height" value="1047" />
   </component>
@@ -685,7 +685,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587019862468" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587019974637" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -808,7 +808,7 @@
       <workItem from="1586861477605" duration="1223000" />
       <workItem from="1586864928281" duration="40917000" />
       <workItem from="1586930892155" duration="50405000" />
-      <workItem from="1586996988135" duration="18393000" />
+      <workItem from="1586996988135" duration="19063000" />
     </task>
     <task id="LOCAL-00001" summary="three">
       <created>1587013347930</created>
@@ -821,7 +821,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="258344000" />
+    <option name="totallyTimeSpent" value="259014000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -833,9 +833,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="95" y="4" width="816" height="837" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12416107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.244709" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24966443" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -853,7 +853,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32587412" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49798658" visible="true" weight="0.2937063" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49798658" visible="true" weight="0.47585228" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50201344" side_tool="true" weight="0.23916084" />
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.31966054" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1249,17 +1249,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="450">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
