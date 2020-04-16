@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbea2b3e-db9d-4e59-b012-37af3af0255c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +41,7 @@
           <entry key="html" value="129" />
           <entry key="jpeg" value="6" />
           <entry key="jpg" value="1" />
-          <entry key="js" value="444" />
+          <entry key="js" value="445" />
           <entry key="json" value="33" />
           <entry key="md" value="1" />
           <entry key="snippet" value="1" />
@@ -57,7 +56,7 @@
           <entry key="Image" value="7" />
           <entry key="JSHELL" value="1" />
           <entry key="JSON" value="33" />
-          <entry key="JavaScript" value="444" />
+          <entry key="JavaScript" value="445" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="TypeScript" value="289" />
@@ -70,8 +69,8 @@
           <entry key="css" value="57" />
           <entry key="gitignore" value="37" />
           <entry key="html" value="4308" />
-          <entry key="js" value="9162" />
-          <entry key="json" value="611" />
+          <entry key="js" value="9163" />
+          <entry key="json" value="617" />
           <entry key="ts" value="13313" />
           <entry key="txt" value="10" />
         </counts>
@@ -81,8 +80,8 @@
           <entry key="CSS" value="57" />
           <entry key="HTML" value="4300" />
           <entry key="JSHELL" value="2" />
-          <entry key="JSON" value="611" />
-          <entry key="JavaScript" value="9168" />
+          <entry key="JSON" value="617" />
+          <entry key="JavaScript" value="9169" />
           <entry key="PLAIN_TEXT" value="47" />
           <entry key="TypeScript" value="13313" />
         </counts>
@@ -126,17 +125,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-281">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="169">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
+            <state relative-caret-position="666">
               <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/karma.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,13 +158,17 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
+            <state relative-caret-position="288">
               <caret line="52" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
@@ -229,7 +243,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/models/Category.js" />
         <option value="$PROJECT_DIR$/client/src/app/categories-page/categories-form/categories-form.component.css" />
         <option value="$PROJECT_DIR$/client/angular.json" />
         <option value="$PROJECT_DIR$/controlles/category.js" />
@@ -278,8 +291,9 @@
         <option value="$PROJECT_DIR$/config/keys.prod.js" />
         <option value="$PROJECT_DIR$/config/keys.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/client/package.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
@@ -305,9 +319,9 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-14" />
-    <option name="y" value="3" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1020" />
     <option name="height" value="1047" />
   </component>
@@ -674,7 +688,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587015048915" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587018090887" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -797,7 +811,7 @@
       <workItem from="1586861477605" duration="1223000" />
       <workItem from="1586864928281" duration="40917000" />
       <workItem from="1586930892155" duration="50405000" />
-      <workItem from="1586996988135" duration="16205000" />
+      <workItem from="1586996988135" duration="17766000" />
     </task>
     <task id="LOCAL-00001" summary="three">
       <created>1587013347930</created>
@@ -810,7 +824,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256156000" />
+    <option name="totallyTimeSpent" value="257717000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -822,9 +836,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12416107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12416107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24966443" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -842,7 +856,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32587412" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49798658" visible="true" weight="0.2937063" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49798658" visible="true" weight="0.2937063" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50201344" side_tool="true" weight="0.23916084" />
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.31966054" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -870,13 +884,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="three" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/src/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="32" column="55" lean-forward="true" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/app/order-page/order-categories/order-categories.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1212,16 +1219,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -1232,17 +1229,40 @@
     <entry file="file://$PROJECT_DIR$/client/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/client/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-281">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
+        <state relative-caret-position="666">
           <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
